@@ -2,7 +2,7 @@
 
 
 ####1.	Briefly describe your team’s project
-It is an application for Twitter gateway. We called it as “Twixer.” It will be used by group of users. Each user can login to his account in Twixer and he/she can see all tweets in their account. User can create a group and add other members of the group. User can tweet regarding the group but this tweet will not published on Twitter till the majority of the group members agree with his/her post. Every other member will login to his account will see the groups which he/she assigned to. The member can access the group and see what posts have not been published yet and vote for it. Each voting will be shown as a green sign, while every reject will be shown as red sign. The non-voting will be shown as grey. User can edit, delete his/her posts only if it is not published.
+It is an application for Twitter gateway. Our group called it as “Twixer.” It will be used by group of users. Each user can login to his/her account in Twixer and he/she can see all tweets in their account. User can create a group and add other members of the group. Each User can post a tweet behalf but this tweet will not be published on Twitter till the majority of the group members agree with his/her post. Every other member will login to his/her account and will see the groups which he/she assigned to. The member can access these groups and see what posts have not been published yet and can vote for it. Each voting will be shown as a green sign, while every reject will be shown as red sign. The non-voting will be shown as grey. User can edit, delete his/her posts only if it is not published.
 
 #### 2.	&  3. List of APIs and functionality 
 
