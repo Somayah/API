@@ -49,7 +49,7 @@ Also, Twitter REST APIs has more useful functionalities that can help us in our 
 
 #### 8.	Describe how the example you wrote might be expanded to use additional functionality provided by the API
 
-I would recommend using this API because from creating the web page I have add input field the request the username just as the login page. Thus, once the user login in Twixer the user information should shows. Also, when the user search about a user to add in a group, the user will enter the member’s username in input field and see the member’s information as I have done in my example. Then, there will be button to add or search again.
+We can expand using this API by use it in login page and adding new member function .Once the user login in Twixer the user information should shows. Also, when the user search about a user to add in a group, the user will enter the member’s username in input field and see the member’s information as I have done in my example. Then, there will be button to add or search again.
   	
 
 
