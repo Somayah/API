@@ -35,6 +35,7 @@ The link: http://twitcher.steer.me/
 
 #### 6.	Discuss any potential issues that you can foresee with using this API in your project
 The potential issues that can be occured are :
+
 *If the user enter wrong user name the API will show the message that “You have entered wrong number”
 *If the user click on search for the user and he did not enter the user nam, this message will be shown "Please enter Twitter username"
 
