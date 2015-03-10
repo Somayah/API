@@ -18,7 +18,7 @@ This API can be used in Twixer application to call specific tweet that has been 
 
  https://api.twitter.com/1.1/users/search.json?q=Somayah_Baflah&page=1&count=3
 
- It returns a list of user as a result of user search. Its parameters are the q=name of the user, page= number of the results’ pages, and count = the number of potential user results to retrieve per page.
+ It returns a list of matched users' name as a result of user search. Its parameters are the q=name of the user, page= number of the results’ pages, and count = the number of potential user results to retrieve per page.
 This API can be used in Twixer application to search about specific user that can be added as group member.
 #####Twicher API
 *	Get a user's information
@@ -26,7 +26,7 @@ This API can be used in Twixer application to search about specific user that ca
  http://twitcher.steer.me/user/[username]?key=aqneegnh
   
   It returns information about specific user which specified by the username. It pull the Twitter data without asking for OAuth key.
-This API can be used in Twixer to show all the user information once the user login in his/her Twixer account.
+This API can be used in Twixer to show all the user information once the user login in his/her Twixer account or search about specific user.
 
 #### 5.	Describe why you chose that particular API and provide a link to its documentation
 I use the Twicher API to get user’s information because it works without authorization key. Also, other group members or users need to know more about the user who add them in group, so they can see their information in Twixer easily instead to login in Twitter.com and check their information.
